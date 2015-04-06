@@ -1,0 +1,20 @@
+Bill of Materials: Paste/Dual Paste - Extruder
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Amount of items for single paste extruder. In round brackets for dual-paste extruder.
+
+Printed:
+========
+- 1x 		Extruder body
+- 1x (2x)	Extruder clamp
+
+Electrical Parts:
+=================
+- 1x (2x)	NEMA 14
+
+Mechanical Parts:
+=================
+- 1x (2x)	M5 80mm threaded rod
+- 1x (2x)	M8 120mm plain rod
+- 1x (2x)	M5 nut
+- 1x (2x)	LM8UU (alternative the printed LM8UU)
