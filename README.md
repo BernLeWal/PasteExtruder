@@ -10,8 +10,11 @@ New design using M5 threaded rod to drive the syringe instead of gears, uses les
 
 ## License
 
+Paste-Extruder by Bernhard Wallisch is licensed under a 
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 ```html
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Paste Extruder</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/BernLeWal/PasteExtruder" property="cc:attributionName" rel="cc:attributionURL">Bernhard Wallisch</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Paste-Extruder</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/BernLeWal/PasteExtruder" property="cc:attributionName" rel="cc:attributionURL">Bernhard Wallisch</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ```
 
 ## References
