@@ -1,9 +1,4 @@
- down vote accepted
-	
-
-Try putting your HTML snippet inside an ```HTML block like this:
-
-```html
+```HTML
 	<h1>Paste/Dual Paste-Extruder</h1>
 	<p>Stepper drived paste/dual-paste extruder for RepRap 3D-Printers</p>
 	<strong>WORK IN PROGRESS</strong>
